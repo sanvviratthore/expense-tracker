@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Spendly",
+    "slug": "spendly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.spendly.app"
+    },
+    "android": {
+      "package": "com.spendly.app"
+    },
+    "scheme": "spendly",
+    "plugins": ["expo-router"]
+  }
+}
